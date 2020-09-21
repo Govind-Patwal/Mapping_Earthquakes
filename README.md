@@ -13,4 +13,8 @@ Earthquakes: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.
 Tectonic plates: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
 ## Result
-Here is the live application: https://govind-patwal.github.io/Mapping_Earthquakes/
+
+Here is the link to the live application: https://govind-patwal.github.io/Mapping_Earthquakes/
+
+Below is a screenshot
+![](Earthquake_Challenge.png)
