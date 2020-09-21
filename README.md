@@ -13,6 +13,7 @@ Now, Basil and Sadhana would like to see the earthquake data in relation to the 
 * Data Sources:
     * Earthquakes: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
     * Tectonic plates: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+    * Major Earthquakes: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 
 ## Result
 
