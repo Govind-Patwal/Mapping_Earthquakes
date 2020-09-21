@@ -6,11 +6,14 @@ Now, Basil and Sadhana would like to see the earthquake data in relation to the 
 
 ## Resources
 Software: Visual Studio Code 1.49.1
+
 Languages: JavaScript, HTML, CSS, Bootstrap
+
 Libraries: Leaflet, D3, Mapbox
+
 Data Sources:
-Earthquakes: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
-Tectonic plates: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+* Earthquakes: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+* Tectonic plates: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
 ## Result
 
